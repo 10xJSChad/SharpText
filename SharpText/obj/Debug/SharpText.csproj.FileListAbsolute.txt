@@ -1,0 +1,10 @@
+C:\Users\annem\source\repos\SharpText\SharpText\bin\Debug\SharpText.exe.config
+C:\Users\annem\source\repos\SharpText\SharpText\bin\Debug\SharpText.exe
+C:\Users\annem\source\repos\SharpText\SharpText\bin\Debug\SharpText.pdb
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.csproj.AssemblyReference.cache
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.Properties.Resources.resources
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.csproj.GenerateResource.cache
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.csproj.CoreCompileInputs.cache
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.exe
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.pdb
+C:\Users\annem\source\repos\SharpText\SharpText\obj\Debug\SharpText.Main.resources
